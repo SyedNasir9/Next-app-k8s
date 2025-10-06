@@ -1,0 +1,18 @@
+# Node modules
+node_modules
+npm-debug.log
+
+# Docker & build files
+Dockerfile
+.dockerignore
+
+# Git files
+.git
+.gitignore
+
+# Next.js build output
+.next
+
+# Logs & environment files
+.env
+*.log
