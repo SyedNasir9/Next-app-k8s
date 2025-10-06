@@ -29,5 +29,5 @@ jobs:
           context: .
           push: true
           tags: |
-            ghcr.io/${{ github.repository }}:latest
-            ghcr.io/${{ github.repository }}:${{ github.sha }}
+            ghcr.io/syednasir9/next-app-k8s:latest
+            ghcr.io/syednasir9/next-app-k8s:${{ github.sha }}
